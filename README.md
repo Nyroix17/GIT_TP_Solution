@@ -43,9 +43,10 @@ Pour ajouter des collaborateurs à votre dépôt Github, il vous faut :
 Dans ce second exercice, vous allez modifier les lignes qui suivent dans le README.md et présenter votre équipe ainsi que la date du jour du TP.
 
 Noms des étudiants : 
-* Boris STOCKER
-* Boris STOCKER  
-* Boris STOCKER  
+* AKKARI Anthony
+* SOLIN Thomas  
+* FRANCILLETTE-JOLI Christophe
+* ETILE Dylan  
 
 Date du jour : 20/11/2025
 
