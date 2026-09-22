@@ -58,9 +58,10 @@ Faites donc un **commit** et **pushez** moi tout ça sur le Master (sur **votre*
 ### Exercice 3 : Travail d'équipe !
 
 Pour cet exercice, je vais appeler les collaborateurs :
-* collaborateur 1
-* collaborateur 2
-* collaborateur 3
+* Nyroix17
+* STI2D2theb
+* pyTof
+* dyltan
 
 selon l'ordre dans lequel vous avez mis vos noms dans la présentation.
 
